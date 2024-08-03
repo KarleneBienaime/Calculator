@@ -42,7 +42,3 @@ It provides a graphical user interface for basic arithmetic operations, trigonom
 - `App.h`: Contains the wxApp-derived class for the application.
 - `ButtonFactory.h`: Contains factory methods for creating various calculator buttons.
 - `CalculatorProcessor.h`: Contains the logic for processing calculations.
-
-## License
-
-[Add your chosen license here]
